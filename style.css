@@ -1,11 +1,13 @@
-#myInput {
-    margin: 15px;
-    padding:5px;
-    border-radius:3px;
-    font-family:Arial;
-    width:120px;
-    height:120px;
-    font-size:13px;
-
-  }
+.myInput {
+   margin: 15px;
+  padding:5px;
+  border-radius:3px;
+  font-family:Arial;
+  font-size:13px;
+  resize: none; 
+}
+  
+.inline-div {
+    display:inline-block;
+}
 
