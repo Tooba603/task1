@@ -5,6 +5,8 @@
   font-family:Arial;
   font-size:13px;
   resize: none; 
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
 }
   
 .inline-div {
